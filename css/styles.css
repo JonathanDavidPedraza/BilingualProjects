@@ -200,3 +200,16 @@ nav ul li a {
   display: none;
 }
 /*_______________________NAVBAR END__________________________*/
+
+.verde {
+  background-color: green;
+}
+.azul {
+  background-color: blue;
+}
+.rojo {
+  background-color: red;
+}
+.row{
+  height: 200px;
+}
